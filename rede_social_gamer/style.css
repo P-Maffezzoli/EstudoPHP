@@ -1,0 +1,36 @@
+.loginBox {
+    position: relative;
+    background-color: #b2c2c2;
+    box-shadow: lightsteelblue;
+    width: 600px;
+    height: 420px;
+    margin: 1px;
+    padding: 1px;
+    border-radius: 35px;
+    align-content: center;
+    text-align: center;
+    font-size: 2em;
+}
+
+.loginBox input {
+    border-radius: 15px;
+    border-style: solid;
+    padding-inline: 10px;
+}
+.userCadBox{
+    position: relative;
+    background-color: #b2c2c2;
+    box-shadow: lightsteelblue;
+    width: 600px;
+    height: 550px;
+    margin: 1px;
+    padding: 1px;
+    border-radius: 35px;
+    align-content: center;
+    text-align: center;
+    font-size: 2em;
+}.userCadBox input {
+    border-radius: 15px;
+    border-style: solid;
+    padding-inline: 10px;
+}
