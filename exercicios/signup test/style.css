@@ -1,0 +1,36 @@
+input {
+  margin: 1px;
+  padding: 1px;
+  font-size: 1.2em;
+}
+body {
+  background-color: aliceblue;
+}
+.divSignup {
+  background-color: whitesmoke;
+  border: 1px solid #969696;
+  width: 16em;
+  position: absolute;
+  left: 38em;
+  top: 23em;
+}
+.divLogin {
+  background-color: whitesmoke;
+  border: 1px solid #969696;
+  width: 16em;
+  position: absolute;
+  right: 38em;
+  top: 23em;
+}
+
+.botaosignup {
+  background-color: lightcoral;
+  border-radius: 5px;
+  bottom: 2px;
+}
+
+.botaoLogin {
+  background-color: lightgreen;
+  border-radius: 5px;
+  bottom: 2px;
+}
